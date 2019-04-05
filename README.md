@@ -1,6 +1,9 @@
-# react-leaflet-choropleth
+# react-leaflet-choropleth-bivariate
 This component extends geoJson from react-leaflet and will use chroma to set the color, using a property or function value.
 This is highly based on [leaflet-choropleth](https://github.com/timwis/leaflet-choropleth) by timwis.
+
+**NOTE:** This is a fork of react-leaflet-choropleth that implements bivariate functionality.
+
 ## Installation
 
 `npm install react-leaflet-choropleth`
